@@ -2,6 +2,8 @@
 
 Challenges-Oracle-One 
 
+web:
+
 Aplicación Web que permite encriptar texto.
 
 Pagina desarrollada con tecnología HTML, CSS y JavaScript, cuya función es cifrar y desencriptar un texto, teniendo en cuenta ciertas reglas a cumplir.
