@@ -2,7 +2,7 @@
 
 Challenges-Oracle-One 
 
-web:
+web: https://nayedominguez11.github.io/Encriptador-de-texto-/
 
 Aplicación Web que permite encriptar texto.
 
